@@ -26,6 +26,7 @@ h1, h2 {
     font-size: 300%;
     float: left;
     color: #DC2519;
+    margin-left: 10px;
 }
 
 /* navigation bar  */
@@ -103,4 +104,31 @@ h1, h2 {
     right: 400px;
 
 }
-    
+
+/* about us */
+
+#about-us {
+    height: 550px;
+}
+
+#right-float {
+    float: right;
+    padding-top: 60px;
+    width: 50%;
+    background-color: green;
+}
+
+#right-float h2 {
+    text-align: center;
+}
+
+#left-float {
+    float: left;
+    padding-top: 60px;
+    width: 50%;
+    background-color: blue;
+}
+
+#left-float h2 {
+    text-align: center;
+}
