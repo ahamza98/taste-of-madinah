@@ -53,7 +53,8 @@ h1, h2 {
 }
 
 #nav-bar a:hover {
-    border-bottom: 1px solid #2c2b2b;
+    border-bottom: 1px solid #DC2519;
+    color: #DC2519;
 }
 
 .active {
