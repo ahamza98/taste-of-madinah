@@ -115,20 +115,54 @@ h1, h2 {
     float: right;
     padding-top: 60px;
     width: 50%;
-    background-color: green;
+    
+}
+
+.right-about {
+    float: right;
+    margin-right: 200px;
 }
 
 #right-float h2 {
     text-align: center;
+    margin-bottom: 30px;
+    font-size: 300%;
+}
+
+
+
+#right-float p {
+    text-align: center;
+    font-size: 110%;
+    
 }
 
 #left-float {
     float: left;
     padding-top: 60px;
     width: 50%;
-    background-color: blue;
+    
 }
 
 #left-float h2 {
     text-align: center;
+}
+
+#circle-container {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border-style: solid;
+    border-color: #ccc;
+    border-width: 1px;
+    border-radius: 50%;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+
+#circle-cover-bg {
+    background: url(../images/biryani.jpg) no-repeat center center;
+    height: 100%;
+    background-size: cover;
+    border-radius: 50%;
 }
