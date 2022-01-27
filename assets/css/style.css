@@ -18,9 +18,25 @@ h1, h2 {
     font-family: Playfair Display SC, sans-serif;
     text-transform: uppercase;
     letter-spacing: -1px;
+    color: #DC2519;
 }
 
 #logo {
     font-size: 300%;
     float: left;
+}
+
+/* navigation bar  */
+
+#nav-bar {
+    letter-spacing: -1px;
+    font-size: 100%;
+    
+
+}
+
+#nav-bar li {
+    list-style-type: none;
+    float: right;
+    margin-right: 3.5em;
 }
