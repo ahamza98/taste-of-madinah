@@ -9,7 +9,7 @@
 body {
     font-family: Source Sans Pro, sans-serif;
     font-weight: 300;
-    color: #3a3a3a;
+    color: #2c2b2b;
 }
 
 /* headings and logo  */
@@ -18,12 +18,14 @@ h1, h2 {
     font-family: Playfair Display SC, sans-serif;
     text-transform: uppercase;
     letter-spacing: -1px;
-    color: #DC2519;
+    color: #252525;
+    
 }
 
 #logo {
     font-size: 300%;
     float: left;
+    color: #DC2519;
 }
 
 /* navigation bar  */
@@ -39,4 +41,21 @@ h1, h2 {
     list-style-type: none;
     float: right;
     margin-right: 3.5em;
+}
+
+#nav-bar a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#nav-bar, #logo {
+    line-height: 75px;
+}
+
+#nav-bar a:hover {
+    border-bottom: 1px solid #2c2b2b;
+}
+
+.active {
+    border-bottom: 1px solid #2c2b2b;
 }
