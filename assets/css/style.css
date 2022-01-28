@@ -269,6 +269,7 @@ h1, h2 {
 .signup-form h2 {
     color: #fffff0;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .text-input {
