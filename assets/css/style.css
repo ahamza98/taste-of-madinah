@@ -14,6 +14,10 @@ body {
 
 /* headings and logo  */
 
+header {
+    height: 100px;
+}
+
 h1, h2 {
     font-family: Playfair Display SC, sans-serif;
     text-transform: uppercase;
@@ -229,4 +233,20 @@ h1, h2 {
 .footer-heading p {
     color: #fffff0;
     margin-bottom: 0.5rem;
+}
+
+/* get in touch form page */
+
+
+#contact-us-form-page {
+    height: 100px;
+}
+
+#contact-us-form-page h1 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#form-section {
+    height: 900px;
 }
