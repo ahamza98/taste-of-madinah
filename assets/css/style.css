@@ -372,9 +372,21 @@ h1, h2 {
     
 }
 
-/* menu media queries */
+/*  media queries */
+/* respnsive header for screen sizes 950px and down */
 
-/* menu media queries for tablets */
+@media screen and (max-width: 950px) {
+
+    #nav-bar {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 25px;
+        line-height: 25px;
+    }
+}
+
+
 
 
 
