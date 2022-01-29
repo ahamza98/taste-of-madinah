@@ -377,9 +377,11 @@ h1, h2 {
 }
 
 /*  media queries */
-/* home page for screen sizes 950px and down */
+/*  for screen sizes 950px and down */
 
 @media screen and (max-width: 950px) {
+
+
 
     #nav-bar {
         clear: left;
