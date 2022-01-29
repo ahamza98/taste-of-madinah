@@ -414,6 +414,15 @@ h1, h2 {
     }
 }
 
+/*  for screen sizes 768px and down */
+
+@media screen and (max-width: 768px) {
+    #logo i {
+        display: none;
+    }
+    
+}
+
 /* about us section media queries for 1150px screen sizes  */
 
 @media screen and (max-width: 1150px) {
