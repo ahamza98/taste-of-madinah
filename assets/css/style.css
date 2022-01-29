@@ -5,7 +5,6 @@
     padding: 0;
     border: none;
 }
-
 body {
     font-family: Source Sans Pro, sans-serif;
     font-weight: 300;
@@ -122,14 +121,19 @@ h1, h2 {
     
 }
 
+#right-float p {
+    max-width: 500px;
+}
+
 .right-about {
     float: right;
     margin-right: 200px;
 }
 
 #right-float h2 {
-    text-align: center;
+    /* text-align: center; */
     margin-bottom: 30px;
+    margin-left: 150px;
     font-size: 300%;
     color: #DC2519;
 }
@@ -139,7 +143,6 @@ h1, h2 {
 #right-float p {
     text-align: center;
     font-size: 110%;
-    
 }
 
 #right-float a {
@@ -369,7 +372,7 @@ h1, h2 {
 .item  p {
     padding: 5px;
     text-align: center;
-    font-weight: 140%;
+    
     
 }
 
@@ -433,7 +436,16 @@ h1, h2 {
 
 
     #right-about {
-        margin: 0;
+        /* margin: 0; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    #right-float h2 {
+        margin: 0 auto;
+        padding-bottom: 20px;
     }
 
     #circle-container {
@@ -458,6 +470,18 @@ h1, h2 {
     }
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
