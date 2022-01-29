@@ -387,12 +387,17 @@ h1, h2 {
 
     #text-on-img {
         left: 0;
+        clear: left;
     }
 
     #about-us-section {
         width: 90%;
         height: 1200px;
         margin: 0 auto;
+    }
+
+    .right-about {
+        float: unset;
     }
 
     .right-about, .left-about {
@@ -428,6 +433,7 @@ h1, h2 {
 
     #right-about {
         margin: 0;
+        float: unset;
 
     }
 
