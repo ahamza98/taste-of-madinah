@@ -409,33 +409,33 @@ h1, h2 {
 
 @media screen and (max-width: 1150px) {
     
-    #about-us-section {
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
+    #about-us {
+        display: flex;
+        flex-direction: column;
+        height: 1100px;
+        justify-content: center;
+        align-items: center;
 
     }
 
-    #right-float, #left-float {
-        width: 100%;
-        float: left;
-        padding: 0;
+    #left-float {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
 
     #right-about {
-        width: 100%;
-        float: left;
-        clear: both;
+        margin: 0;
 
+    }
+
+    #circle-container {
+        margin: 0;
     }
 
     
-    #left-about {
-        width: 100%;
-        float: left;
-        clear: both;
-    }
 }
 
 /* menu page media query for max width 1000px and 820px */
