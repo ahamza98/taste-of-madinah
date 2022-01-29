@@ -323,6 +323,22 @@ h1, h2 {
 
 /* menu page */
 
+#menu-header {
+    height: 100px;
+    background-color: #DC2519;
+}
+
+#menu-header h1 {
+    text-align: center;
+    margin-top: 10px;
+    color: #fffff0;
+    line-height: 85px;
+}
+
+
+
+
+
 .food-items {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -333,12 +349,12 @@ h1, h2 {
 
 .item img {
     width: 100%;
-    height: 300px;
+    height: 320px;
     object-fit: cover;
 }
 
 .item img:hover {
-    transform: scale(1.03);
+    transform: scale(1.04);
 }
 
 .item h4, p {
