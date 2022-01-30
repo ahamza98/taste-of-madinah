@@ -85,8 +85,9 @@ h1, h2 {
 
 /* text on hero image */
 
-#text-on-img h3 {
+#text-on-img h2 {
     color: #fffff0;
+    font-size: 20.592px;
 
 }
 
