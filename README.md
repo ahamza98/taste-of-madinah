@@ -2,7 +2,7 @@
 
 # Taste Of Madinah
 
-![Final project image home page]
+![Final project image home page](docs/responsive-design/responsive-design.png)
 
 #
 ## PURPOSE
@@ -10,7 +10,7 @@
 The Taste of Madinah is a website for a restaurant in Madinah, Saudi Arabia that serves Arabian cuisine from Shawarma, biryani and deserts like kunafa. 
 Consumers can use this website to see what the menu provides and a brief information about the restuarnt.
 The target audience for this website is for anyone that wants to try out the best Arabian cuisines
-* [Here is a link to the final project]
+* [Final project link](https://ahamza98.github.io/taste-of-madinah/)
 
 ## Project Goals
 
@@ -118,6 +118,37 @@ The target audience for this website is for anyone that wants to try out the bes
 #
 # Testing
 ## Manual testing
-- 
+- Tested on different browsers such as chrome, firefox and Microsoft edge.
+- Confirmed all social media links work as well as nav bar links.
+- Checked that the form sheet works, as you cannot submit without filling in name, email and some feedback.
+#
+#
+## Validator testing
+### Html Validator
+
+- No errors in all HTML pages via  W3C Markup Validation Service.
+- <details><summary>Home Page</summary>
+<img src="docs/validators/ws3-home-page.png">
+</details>
+
+- <details><summary>Menu Page</summary>
+<img src="docs/validators/ws3-menu.png">
+</details>
+
+- <details><summary>Get in Touch Page</summary>
+<img src="docs/validators/ws3-getintouch.png">
+</details>
+
+#
+### CSS Validator
+
+- No error in CSS coding via W3C Jigsaw CSS Validation Service.
+- <details><summary>CSS code</summary>
+<img src="docs/validators/css-validator.png">
+</details>
+
+#
+### Accessibilty
+- No errors, alerts and contrast errors via Wave.Webaim.org
 
 
