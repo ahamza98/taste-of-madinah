@@ -362,10 +362,11 @@ h1, h2 {
     transform: scale(1.04);
 }
 
-.item  h4 {
+.item  h3 {
     padding: 5px;
     text-align: center;
     font-size: 120%;
+    font-size: 19.2px;
     
 }
 
