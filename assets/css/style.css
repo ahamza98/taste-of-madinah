@@ -500,6 +500,18 @@ h1, h2 {
 
 }
 
+@media screen and (max-width: 440px) {
+    .footer {
+        height: 350px;
+    }
+
+    #circle-container {
+        display: none;
+    }
+}
+
+
+
 
 
 
