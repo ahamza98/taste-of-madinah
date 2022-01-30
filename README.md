@@ -104,5 +104,20 @@ The target audience for this website is for anyone that wants to try out the bes
 ## Colours
 - The colours in this website revolved around the colour red to symbolise the city of the restuarnt (Madinah) a hot city. And also the food there are known to be spicy like biryani and shawarma.
 - Also when hovered over links, they change to red.
+- The Menu and Get In Touch header section have the same tone of red as well as every link when hovered upon and submit button on its own.
+<img src="docs/features/main-red-color.png">
+
 - The form section has a slight grey touch to it to fit in with the brownish background.
+<img src="docs/features/rgba.png">
+
+#
+## Fonts 
+- For headings Playfair Display SC
+- For the rest of body Source Sans Pro
+
+#
+# Testing
+## Manual testing
+- 
+
 
