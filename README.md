@@ -31,7 +31,7 @@ The target audience for this website is for anyone that wants to try out the bes
 #
 ## WIREFRAMES
 
-* <details><summary>Home</summary>
+<details><summary>Home</summary>
 <img src="docs/wireframes/index-html-desktop.jpg">
 <img src="docs/wireframes/index-html-tablet-and-phone.jpg">
 </details>
@@ -56,6 +56,7 @@ The target audience for this website is for anyone that wants to try out the bes
 ## Logo and Navigation Bar :
 * <img src="docs/features/logo-and-navbar.png" width=400>
 - The logo and navbar are in all 3 html pages.
+- Logo has an icon from fontawesome.com
 - They are fully responsive on big screens and tablets
 - The logo leads to the home page
 - The nav bar has 3 links to home, menu and get in touch pages.
@@ -127,15 +128,15 @@ The target audience for this website is for anyone that wants to try out the bes
 ### Html Validator
 
 - No errors in all HTML pages via  W3C Markup Validation Service.
-- <details><summary>Home Page</summary>
+<details><summary>Home Page</summary>
 <img src="docs/validators/ws3-home-page.png">
 </details>
 
-- <details><summary>Menu Page</summary>
+<details><summary>Menu Page</summary>
 <img src="docs/validators/ws3-menu.png">
 </details>
 
-- <details><summary>Get in Touch Page</summary>
+<details><summary>Get in Touch Page</summary>
 <img src="docs/validators/ws3-getintouch.png">
 </details>
 
@@ -143,12 +144,31 @@ The target audience for this website is for anyone that wants to try out the bes
 ### CSS Validator
 
 - No error in CSS coding via W3C Jigsaw CSS Validation Service.
-- <details><summary>CSS code</summary>
+<details><summary>CSS code</summary>
 <img src="docs/validators/css-validator.png">
 </details>
 
 #
 ### Accessibilty
 - No errors, alerts and contrast errors via Wave.Webaim.org
+<details><summary>Home Page</summary>
+<img src="docs/accessibility/home-accessibility.png">
+</details>
+<details><summary>Menu Page</summary>
+<img src="docs/accessibility/menu-accessibility.png">
+</details>
+<details><summary>Get In Touch Page</summary>
+<img src="docs/accessibility/getintouch-accessibility.png">
+</details>
 
-
+#
+### Performance
+<details><summary>Home Page</summary>
+<img src="docs/accessibility/home-accessibility.png">
+</details>
+<details><summary>Menu Page</summary>
+<img src="docs/accessibility/menu-accessibility.png">
+</details>
+<details><summary>Get In Touch Page</summary>
+<img src="docs/accessibility/getintouch-accessibility.png">
+</details>
