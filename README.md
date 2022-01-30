@@ -163,12 +163,45 @@ The target audience for this website is for anyone that wants to try out the bes
 
 #
 ### Performance
+- Performance tested by Lighthouse via Chrome Dev Tools
 <details><summary>Home Page</summary>
-<img src="docs/accessibility/home-accessibility.png">
+<img src="docs/performance/home-performance.png">
 </details>
 <details><summary>Menu Page</summary>
-<img src="docs/accessibility/menu-accessibility.png">
+<img src="docs/performance/menu-lighthouse.png">
 </details>
 <details><summary>Get In Touch Page</summary>
-<img src="docs/accessibility/getintouch-accessibility.png">
+<img src="docs/performance/getintouch-lighthouse.png">
 </details>
+
+#
+# Bugs
+## Unsolved bugs
+- Not fully responsive with phone screens, due to lack of time and not used to dealing with smaller screens 450px and lower.
+- Menu page slow due to using display: grid;. 
+- Logo, nav bar and headings out of place in smaller screens.
+
+#
+# Deployment
+* This site was deployed to the Github pages, the steps to deploy:
+  * On the Github reprository page, click on settings
+  * Go down and click on pages
+  * From the source drop-down menu click on Main.
+  * Save your reprository
+  * From there on the reprository will be saved and uploaded to the server.
+
+# Credits
+## Content
+- Nav bar, logo, style form, and circle container layout were taken from [Love Running](https://learn.codeinstitute.net/).
+- Display: grid; and display: flex; features were taken from [youtube](https://youtube.com/)
+
+## Media
+- All images that are seen on the website taken from {pexels}(https://www.pexels.com/).
+- Social media icons and logo icon taken from [fontawesome](https://fontawesome.com/)
+
+# Acknowledgement 
+
+- Firstly to Code Institute for their videos and content.
+- A big shoutout to the slack team community for their quick responses and patience
+- My mentor Mo Shami
+- Also Chris Williams 5P for helping me understand media queries better.
